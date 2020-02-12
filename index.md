@@ -6,7 +6,7 @@ This should be normal text. Not Sure how it will be rendered.
 =======
 ## Welcome to GitHub Pages
 
-You can use the [overview description](https://github.com/andyburnett/projectguide/edit/master/overview.md) to maintain and preview the content for your website in Markdown files.
+You can use the [overview description](https://github.com/andyburnett/projectguide/edit/master/overview) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
